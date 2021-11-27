@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.RecyclerView
 *
 * el orden que se tiene que seguir para que entiendas el flujo es :
 *  1- Primero la data class club .
-*  2- Despues el activity, en la linea 61 vas a tener que instanciar un adapter que no creaste aun.
+*  2- Despues el activity, en la linea 65 vas a tener que instanciar un adapter que no creaste aun.
 *     En ese momento creas el adapter.
 *  3 - Por ultimo terminas haciendo la clase adapter.
 *
